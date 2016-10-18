@@ -8,4 +8,4 @@ If you're one of those not-so-computer-savy-people, just open the zip file and e
 If you're running linux, make sure to set the .x86 file permission to allow running as an executable.
 
 design documentation to follow.
-I'll probably upload to project files... I guess.
+I'll probably upload the project files too... I guess.
