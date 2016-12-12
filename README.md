@@ -9,4 +9,4 @@ If you're one of those not-so-computer-savy-people, just open the zip file and e
 
 If you're running linux, make sure to set the .x86 file permission to allow running as an executable.
 
-I'll probably upload the project files... I guess.
+There's also the poster I presented at the national honors conference and a critical analysis of Undertale because this is also my portfolio for graduate school applications.
